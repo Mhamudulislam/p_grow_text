@@ -1,0 +1,6 @@
+/* root */
+:root
+{--col1:red; --col2:white; --col3:blue; --col4:20px; --col5:sans-serif; --col6: black; --col7:60px;}
+/* root */
+h1
+{border: 1px solid var(--col1); margin-top: var(--col4); text-align: center; text-shadow: 0 0 5px var(--col6), 0 0 5px var(--col6), 0 0 5px var(--col6), 0 0 5px var(--col6); font-family: var(--col5); color: var(--col3); font-size: var(--col7);}
